@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 314 314">
+  <defs>
+    <style>
+      .cls-bg {
+        fill: #000000;
+      }
+      .cls-1 {
+        fill: #dbe0de;
+      }
+    </style>
+  </defs>
+  <rect class="cls-bg" width="314" height="314"/>
+  <g transform="translate(57, 55.055)">
+    <rect class="cls-1" width="50" height="200"/>
+    <rect class="cls-1" x="75" width="50" height="200"/>
+    <rect class="cls-1" x="150" width="50" height="200"/>
+  </g>
+</svg>
