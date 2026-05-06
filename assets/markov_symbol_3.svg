@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 314 314">
-  <rect width="314" height="314" fill="#000000"/>
-  <g transform="translate(57 55.055)" fill="#dbe0de">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <style>
+    .bar { fill: #241f21; }
+    @media (prefers-color-scheme: dark) {
+      .bar { fill: #f0ebe5; }
+    }
+  </style>
+  <g class="bar">
     <rect width="50" height="200"/>
     <rect x="75" width="50" height="200"/>
     <rect x="150" width="50" height="200"/>
