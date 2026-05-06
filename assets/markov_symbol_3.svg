@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 203.89">
-  <g fill="#241f21">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 314 314">
+  <rect width="314" height="314" fill="#000000"/>
+  <g transform="translate(57 55.055)" fill="#dbe0de">
     <rect width="50" height="200"/>
     <rect x="75" width="50" height="200"/>
     <rect x="150" width="50" height="200"/>
